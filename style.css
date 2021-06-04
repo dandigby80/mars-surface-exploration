@@ -142,9 +142,9 @@ button:hover{
 } */
 
 @media(max-width: 500px){
-  .container{
+  /* .container{
     height: 100vh;
-  }
+  } */
   .container h1{
     font-size: 1.5rem;
   }
