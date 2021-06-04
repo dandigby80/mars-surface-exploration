@@ -128,7 +128,7 @@ button:hover{
   }
 
   .modal{
-    width: 80%;
+    max-width: 80%;
   }
 }
 
