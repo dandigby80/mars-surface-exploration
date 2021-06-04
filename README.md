@@ -1,2 +1,2 @@
-# mars-surface-exploration
+# Mars Surface Exploration
 Details coming soon...
