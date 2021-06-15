@@ -146,4 +146,9 @@ button:hover{
   .modal{
     width: 80%;
   }
+
+  button:hover{
+    background: #fff;
+    color: orange;
+  }
 }
